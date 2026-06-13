@@ -127,6 +127,16 @@ Visitor Count = 4
 
 ---
 
+## Demo Images
+
+### Circuit Setup
+![Circuit Photo](circuit_photo.jpg)
+
+### Serial Monitor Output
+![Serial Output](serial_output.jpg)
+
+---
+
 ## Author
 
 Harish Kumar V

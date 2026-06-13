@@ -10,6 +10,13 @@ This project demonstrates sensor interfacing, event detection logic, and embedde
 
 ---
 
+## Project Files
+
+| File | Description |
+|------|-------------|
+| `visitor_counter.ino` | ESP32 firmware code for IR sensor detection and visitor counting |
+| `README.md` | Project documentation |
+
 ## Features
 
 - Real-time visitor counting
@@ -56,7 +63,7 @@ This project demonstrates sensor interfacing, event detection logic, and embedde
 |------------|--------|
 | VCC | 3.3V |
 | GND | GND |
-| OUT | GPIO 4 |
+| OUT | GPIO 15 |
 
 ### Buzzer
 
